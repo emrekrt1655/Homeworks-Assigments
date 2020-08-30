@@ -1,0 +1,15 @@
+Select, Where, Order By, Limit, and,or,between,in operators
+
+1) Write a query that returns the track name using tracks table.
+2) Write a query that returns the track name and its composer using tracks table.
+3) Write a query that returns columns of tracks table.
+4)Find the name of composers of each track using tracks table.
+5) Write a query that returns distinct manager AlbumId, MediaTypeId pair.
+6) Find the track names of Jimi Hendrix.
+7) Find all the info of the invoicces of which total amount is greater than $10.
+8)  Find all the info of the invoicces of which total amount is greater than $10.Just return the first 4 rows.
+9) Find all the info of the invoicces of which total amount is greater than $10. Then sort them by the total amount in descending order.
+10)Find all the info of the invoices of which billing country is not USA. Then sort them by the total amount in ascending order.
+11) Find the newest invoice date among the invoice dates between 2009 and 2011.
+12) Find the first and last name of the customers who make an order from Belgium, Norway, Canada und USA.
+13) Find the songs of Bach.
