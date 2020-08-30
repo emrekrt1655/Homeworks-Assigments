@@ -1,0 +1,5 @@
+JOINS
+
+1) Find the genre of each track.
+2) Find the customer name of each invoice. Your result will include Invoive id and customer name.
+3) Find the artists' album info.
