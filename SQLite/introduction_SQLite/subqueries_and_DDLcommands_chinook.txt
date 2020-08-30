@@ -1,0 +1,13 @@
+Subqueries & DDL Commands
+
+1) Retrieve track id, track name, album id info of the Album title "Faceless".
+2) Answer the first question by using Joins.
+3)1) Retrieve track id, track name, album id info of the Album title "Faceless" and "Let There Be Rock".
+4) Retrieve the InvoiceId, Billing address and total amount from invoices. But write in every row the sum of total amount.
+5) Please add a table to your existing sql_course database: The table name will be vacation_plan of the summer employees for this summer. Column names:
+-place_id
+-country
+-hotel_name
+-employee_id
+-vacation_length
+-budget
